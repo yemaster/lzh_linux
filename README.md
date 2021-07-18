@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## LZH Linux 1.0
 
-You can use the [editor on GitHub](https://github.com/yemaster/lzh_linux/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+专门为OI比赛配置的系统
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 预装软件
 
-### Markdown
+### 编译器/解释器
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **gcc/g++**：gcc version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04) 
+- **fpc**：Free Pascal Compiler version 3.0.4+dfsg-23 [2019/11/25] for x86_64
+- **python2**：Python 2.7.18 (default, Mar  8 2021, 13:02:45) 
+- **python3**：Python 3.8.10 (default, Jun  2 2021, 10:49:15) 
+- **javac**：javac 11.0.11
+- **nodejs**：v14.17.3(npm:6.14.13,yarn:1.22.10)
 
-```markdown
-Syntax highlighted code block
+### 文本编辑器
 
-# Header 1
-## Header 2
-### Header 3
+- **kate**：kate 19.12.3
+- **gedit**：3.36.2
+- **VSCode**：1.58.2
 
-- Bulleted
-- List
+### 评测软件
 
-1. Numbered
-2. List
+- **LemonLime**：0.2.10:155
 
-**Bold** and _Italic_ and `Code` text
+## 常见问答
 
-[Link](url) and ![Image](src)
-```
+### Q: LZH Linux1.0是什么系统的套壳？
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Kubuntu 20.04
 
-### Jekyll Themes
+### Q: 用lemon做评测机而不是Arbiter？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yemaster/lzh_linux/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+众所周知，Arbiter的界面非常美观，安全性能很高，成为NOI比赛第一选择。但是由于Arbiter只安装在NOI Linux中，本系统只能使用同样受欢迎的Lemon评测软件。预计LZH Linux2.0会安装我们自己开发的评测软件nomel
