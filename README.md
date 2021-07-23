@@ -1,6 +1,8 @@
 ## LZH Linux 1.0
 
-专门为OI比赛配置的系统
+专门为OI比赛配置的系统.
+
+## [立刻下载](https://pan.huang1111.cn/s/Nl7u1)
 
 ## 预装软件
 
