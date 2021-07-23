@@ -23,6 +23,10 @@
 
 - **LemonLime**：0.2.10:155
 
+### 终端
+
+- **oh my zsh**: zsh 5.8 (x86_64-ubuntu-linux-gnu)
+
 ## 常见问答
 
 ### Q: 默认的密码是什么？
