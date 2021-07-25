@@ -1,4 +1,4 @@
-## LZH Linux 1.0
+## LZH Linux 1.0.1
 
 专门为OI比赛配置的系统.
 
@@ -17,9 +17,19 @@
 
 ### 文本编辑器
 
+- **vim**：8.1.2269
 - **kate**：kate 19.12.3
 - **gedit**：3.36.2
 - **VSCode**：1.58.2
+- **Emacs**：26.3 (build 2, x86_64-pc-linux-gnu, GTK+ Version 3.24.14)
+
+### 文档
+
+- **WPS**: WPS 2019 11.1.0.10161
+
+### 通讯工具
+
+- **QQ(deepin wine)**: 9.3.2deepin20 
 
 ### 评测软件
 
@@ -28,6 +38,11 @@
 ### 终端
 
 - **oh my zsh**: zsh 5.8 (x86_64-ubuntu-linux-gnu)
+
+### 其他工具
+
+- **graphviz**：2.42.2-3build2
+- **cf-tool**：1.0.0
 
 ## 常见问答
 
