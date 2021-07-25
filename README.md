@@ -1,8 +1,6 @@
 ## LZH Linux 1.0.1
 
-专门为OI比赛配置的系统.
-
-## [立刻下载](https://pan.huang1111.cn/s/Nl7u1)
+专门为OI比赛配置的系统. [立刻下载 LZH Linux 1.0.1（4.58GB）](https://pan.huang1111.cn/s/7zjtg) 或者 选择[以往版本](#以往版本)
 
 ## 预装软件
 
@@ -43,6 +41,11 @@
 
 - **graphviz**：2.42.2-3build2
 - **cf-tool**：1.0.0
+
+## 以往版本
+
+- [LZH Linux 1.0.1]() 4.58GB
+- [LZH Linux 1.0.0](https://pan.huang1111.cn/s/Nl7u1) 3.22GB
 
 ## 常见问答
 
